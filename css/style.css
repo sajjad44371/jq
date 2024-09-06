@@ -1,0 +1,10 @@
+.btn_c{
+	width: 130px;
+	height: 50px;
+	font-weight: 700;
+	background-color: pink;
+	border-radius: 15px;
+}
+.btn_c:hover{
+	background-color: white;
+}
